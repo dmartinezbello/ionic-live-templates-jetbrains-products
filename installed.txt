@@ -1,0 +1,10 @@
+DBN
+Key Promoter X
+aws.toolkit
+com.github.copilot
+com.github.lppedd.idea-conventional-commit
+com.hasintech.intellij.angularTemplates
+com.intellij.database
+com.intellij.jira
+org.dynamodb4idea
+org.nik.presentation-assistant
